@@ -7,3 +7,6 @@ SamplingMethods.ipynb - Tutorial of statistical sampling methods from a populati
 RandomNumberGeneration - Generating random numbers and samples in python
 
 Law_of_Large_Numbers - Tutorial of the theorem (Law of Large Numbers)
+
+Effect Size - The eﬀect size describes the magnitude of a treatment or diﬀerence between two samples.
+
